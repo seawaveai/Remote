@@ -6,3 +6,5 @@ readme.txt2
 管理修改
 管理修改ab
 dev分支修改1
+
+测试fetch.
