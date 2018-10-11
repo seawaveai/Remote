@@ -1,3 +1,4 @@
 为了测试bug分支,即stash功能.
 遥远的就是主.
 测试Rebase.
+Your branch and 'origin/master' have diverged,
